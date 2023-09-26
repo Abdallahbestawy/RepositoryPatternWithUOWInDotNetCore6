@@ -1,0 +1,12 @@
+E:\projectAPI\repo\repo.core\bin\Debug\net6.0\UOW.Domain.deps.json
+E:\projectAPI\repo\repo.core\bin\Debug\net6.0\UOW.Domain.dll
+E:\projectAPI\repo\repo.core\bin\Debug\net6.0\UOW.Domain.pdb
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\UOW.Domain.csproj.AssemblyReference.cache
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\UOW.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\UOW.Domain.AssemblyInfoInputs.cache
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\UOW.Domain.AssemblyInfo.cs
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\UOW.Domain.csproj.CoreCompileInputs.cache
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\UOW.Domain.dll
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\refint\UOW.Domain.dll
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\UOW.Domain.pdb
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\ref\UOW.Domain.dll

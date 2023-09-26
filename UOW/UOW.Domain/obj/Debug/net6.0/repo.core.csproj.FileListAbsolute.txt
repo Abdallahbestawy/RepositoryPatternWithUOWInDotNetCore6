@@ -1,0 +1,12 @@
+E:\projectAPI\repo\repo.core\bin\Debug\net6.0\repo.core.deps.json
+E:\projectAPI\repo\repo.core\bin\Debug\net6.0\repo.core.dll
+E:\projectAPI\repo\repo.core\bin\Debug\net6.0\repo.core.pdb
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\repo.core.csproj.AssemblyReference.cache
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\repo.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\repo.core.AssemblyInfoInputs.cache
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\repo.core.AssemblyInfo.cs
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\repo.core.csproj.CoreCompileInputs.cache
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\repo.core.dll
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\refint\repo.core.dll
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\repo.core.pdb
+E:\projectAPI\repo\repo.core\obj\Debug\net6.0\ref\repo.core.dll

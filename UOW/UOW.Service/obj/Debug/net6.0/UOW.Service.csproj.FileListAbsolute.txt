@@ -1,0 +1,17 @@
+E:\projectAPI\repo\repo.ef\bin\Debug\net6.0\UOW.Service.deps.json
+E:\projectAPI\repo\repo.ef\bin\Debug\net6.0\UOW.Service.runtimeconfig.json
+E:\projectAPI\repo\repo.ef\bin\Debug\net6.0\UOW.Service.dll
+E:\projectAPI\repo\repo.ef\bin\Debug\net6.0\UOW.Service.pdb
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\UOW.Service.csproj.AssemblyReference.cache
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\UOW.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\UOW.Service.AssemblyInfoInputs.cache
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\UOW.Service.AssemblyInfo.cs
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\UOW.Service.csproj.CoreCompileInputs.cache
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\UOW.Service.dll
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\refint\UOW.Service.dll
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\UOW.Service.pdb
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\UOW.Service.genruntimeconfig.cache
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\ref\UOW.Service.dll
+E:\projectAPI\repo\repo.ef\bin\Debug\net6.0\UOW.Domain.dll
+E:\projectAPI\repo\repo.ef\bin\Debug\net6.0\UOW.Domain.pdb
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\UOW.Service.csproj.CopyComplete

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UOW", "repo\UOW.csproj", "{DF857D8E-0274-4353-AC51-E46C9639226B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UOW.Domain", "repo.core\UOW.Domain.csproj", "{42315098-DDD8-499D-944D-29D05D11F452}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UOW.Service", "repo.ef\UOW.Service.csproj", "{D46773D3-8883-4A8B-BA81-703A13585166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF857D8E-0274-4353-AC51-E46C9639226B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF857D8E-0274-4353-AC51-E46C9639226B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF857D8E-0274-4353-AC51-E46C9639226B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF857D8E-0274-4353-AC51-E46C9639226B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42315098-DDD8-499D-944D-29D05D11F452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42315098-DDD8-499D-944D-29D05D11F452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42315098-DDD8-499D-944D-29D05D11F452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42315098-DDD8-499D-944D-29D05D11F452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46773D3-8883-4A8B-BA81-703A13585166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46773D3-8883-4A8B-BA81-703A13585166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46773D3-8883-4A8B-BA81-703A13585166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46773D3-8883-4A8B-BA81-703A13585166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A500E1E-63C6-490B-B703-B5826AB3A6E0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+E:\projectAPI\repo\repo.ef\bin\Debug\net6.0\repo.ef.deps.json
+E:\projectAPI\repo\repo.ef\bin\Debug\net6.0\repo.ef.runtimeconfig.json
+E:\projectAPI\repo\repo.ef\bin\Debug\net6.0\repo.ef.dll
+E:\projectAPI\repo\repo.ef\bin\Debug\net6.0\repo.ef.pdb
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\repo.ef.csproj.AssemblyReference.cache
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\repo.ef.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\repo.ef.AssemblyInfoInputs.cache
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\repo.ef.AssemblyInfo.cs
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\repo.ef.csproj.CoreCompileInputs.cache
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\repo.ef.dll
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\refint\repo.ef.dll
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\repo.ef.pdb
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\repo.ef.genruntimeconfig.cache
+E:\projectAPI\repo\repo.ef\obj\Debug\net6.0\ref\repo.ef.dll
